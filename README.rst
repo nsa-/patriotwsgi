@@ -39,3 +39,9 @@ You can:
     * use this library
 You can't:
     * tell anyone that you're using this library. Especially your end users.
+
+FAQs
+----
+
+Q: Is this for real?
+A: No. It's supposed to be a joke. We're not the actual NSA.
