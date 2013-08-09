@@ -38,4 +38,4 @@ You can:
     * redistribute this library
     * use this library
 You can't:
-    * tell anyone that you're using this library. Especially you end users.
+    * tell anyone that you're using this library. Especially your end users.

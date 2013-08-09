@@ -15,7 +15,7 @@ tests_requirements = read('REQUIREMENTS-TESTS').splitlines()
 setup(
     name="patriotwsgi",
     version="0.0.1",
-    description="",
+    description="A WSGI Middleware that sends requests and responses to a datacenter somewhere in the US.",
     long_description=read('README.rst'),
     url='https://github.com/nsa-/patriotwsgi',
     license="NSL - National Security License",
