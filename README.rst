@@ -33,4 +33,9 @@ This library doesn't actually exists.
 License
 -------
 
-You can use this library, but you can't talk about it or tell anyone.
+You can:
+    * promote this library
+    * redistribute this library
+    * use this library
+You can't:
+    * tell anyone that you're using this library. Especially you end users.
