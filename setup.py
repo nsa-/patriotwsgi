@@ -17,7 +17,7 @@ setup(
     version="0.0.1",
     description="",
     long_description=read('README.rst'),
-    url='',
+    url='https://github.com/nsa-/patriotwsgi',
     license="NSL - National Security License",
     author='NSA',
     author_email='developers@nsa.gov',
