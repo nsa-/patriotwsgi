@@ -10,10 +10,14 @@ This middleware assumes that you haven't done anything illegal and you don't hav
 Installation
 ------------
 
+::
+
     $ pip install patriotwsgi
 
 Quickstart
 ----------
+
+::
 
     from patriotwsgi import NSAMiddleware
 
