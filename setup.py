@@ -26,7 +26,7 @@ setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Programming Language :: Python',
-        'License :: Other/Proprietary License'
+        'License :: Free To Use But Restricted'
     ],
     install_requires=requirements,
     tests_require=tests_requirements,
